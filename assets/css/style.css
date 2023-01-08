@@ -199,15 +199,14 @@ border-radius: 50%;
     float: left;
     height: 300px;
     width: 20%;
-    padding: 30px 00 10px;
+    padding: 30px 0 0 10px;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
 }
 #times h2 {
-    color: #fafafa
-
-}
+    color: #fafafa;
+ }
 
 footer {
     height: 150px;
